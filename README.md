@@ -1,1 +1,1 @@
-# warehouse
+This is a small warehouse application. 
