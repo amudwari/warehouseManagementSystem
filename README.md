@@ -1,1 +1,2 @@
-This is a small warehouse application. 
+# Project1
+Project1 for CSCI 430
