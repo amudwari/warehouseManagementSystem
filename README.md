@@ -1,2 +1,1 @@
-# Project1
-Project1 for CSCI 430
+This is a simple warehouse program written in Java. This software tracks activities in warehouse and has features like add product, make order, add cient, add supplier. This can be viewed in three different state i.e. clerk state, supplier state and manager state. 
